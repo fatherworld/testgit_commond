@@ -1,4 +1,17 @@
 have good day
 you are a beautiful gril
+
 i love you
-int main()
+void main(int a,int b)
+{
+	cout<<"hahahha"<<endl;
+	
+}
+
+int main2(int ad)
+{
+
+
+}
+
+
